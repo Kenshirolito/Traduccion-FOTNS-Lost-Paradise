@@ -1,0 +1,32 @@
+[Debug]	2025-01-13 20:43:05 Create image Process started.
+[Debug]	nptitle.dat: NP Title file.
+[Warn]	The latest QA passed package file is not specified although Application Version is 01.04. Delta patch feature is disabled. Make sure that it is intentional.
+[Debug]	Custom patches thanks to flat_z and cfwprophet!       
+[Warn]	Patched By CyB1K! Credits to SocraticBliss and TheRadziu
+[Warn]	Publishing Tools Version 3.87
+[Debug]	icon0.png: 512x512/24bit.
+[Debug]	icon0_00.png: 512x512/24bit.
+[Debug]	icon0_01.png: 512x512/24bit.
+[Debug]	icon0_02.png: 512x512/24bit.
+[Debug]	icon0_03.png: 512x512/24bit.
+[Debug]	icon0_04.png: 512x512/24bit.
+[Debug]	icon0_05.png: 512x512/24bit.
+[Debug]	icon0_18.png: 512x512/24bit.
+[Debug]	pic0.png: 1920x1080/24bit.
+[Debug]	pic1.png: 1920x1080/24bit.
+[Debug]	pic1_00.png: 1920x1080/24bit.
+[Debug]	pic1_01.png: 1920x1080/24bit.
+[Debug]	pic1_02.png: 1920x1080/24bit.
+[Debug]	pic1_03.png: 1920x1080/24bit.
+[Debug]	pic1_04.png: 1920x1080/24bit.
+[Debug]	pic1_05.png: 1920x1080/24bit.
+[Debug]	pic1_18.png: 1920x1080/24bit.
+[Debug]	pic1_20.png: 1920x1080/24bit.
+[Debug]	pic1_22.png: 1920x1080/24bit.
+[Debug]	(app) chunks=100, mchunks=2, scenarios=1, default_scenario=#0
+[Debug]	(patch) chunks=100, mchunks=2, scenarios=1, default_scenario=#0
+[Debug]	Scenario #0 Language Group #0 (patch): Initial Payload = 1436MiB
+[Debug]	Writing internal image.
+[Debug]	Writing internal image.
+[Debug]	Calculating image digest.
+[Debug]	Partly skipping digest calculation.
