@@ -1,0 +1,7 @@
+5
+0000list.txt
+2d_mn_mg_darts_num02.dds
+2d_k2_darts_anm.dds
+2d_k2_darts_darts1.dds
+2d_k2_darts_darts2.dds
+2d_k2_darts_gameon.dds

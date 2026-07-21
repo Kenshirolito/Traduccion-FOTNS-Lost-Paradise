@@ -1,0 +1,10 @@
+8
+0000list.txt
+2d_jm_titlemenu_line.dds
+2d_mt_titlemenu_via_olmg.dds
+2d_mt_titlemenu_via_top.dds
+2d_mt_titlemenu_eff01.dds
+2d_mt_ranking.dds
+2d_mt_ranking_bg.dds
+2d_k2_ranking_route.dds
+2d_mt_ranking_bg2.dds

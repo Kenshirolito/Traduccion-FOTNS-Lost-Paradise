@@ -1,0 +1,7 @@
+5
+0000list.txt
+2d_mr_mg_kurofuku_main.dds
+2d_mr_mg_kf_replace_a.dds
+2d_mr_mg_kurofuku_girl.dds
+2d_mr_mg_kurofuku_flame.dds
+2d_mr_mg_kf_replace_b.dds

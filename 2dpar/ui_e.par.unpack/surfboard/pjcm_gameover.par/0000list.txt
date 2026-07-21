@@ -1,0 +1,5 @@
+3
+0000list.txt
+pjcm_gameover_01.dds
+pjcm_gameover_03.dds
+pjcm_gameover_bg.dds

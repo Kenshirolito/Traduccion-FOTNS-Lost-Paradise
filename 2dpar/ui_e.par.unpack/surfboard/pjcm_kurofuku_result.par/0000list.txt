@@ -1,0 +1,6 @@
+4
+0000list.txt
+2d_mr_mg_kurofuku_wind.dds
+2d_mr_mg_kurofuku_set.dds
+2d_mr_mg_kurofuku_girl2.dds
+2d_mr_mg_kf_replace_b.dds

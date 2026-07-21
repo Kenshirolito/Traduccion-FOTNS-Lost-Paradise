@@ -1,0 +1,6 @@
+4
+0000list.txt
+2d_mr_mg_death_bat1.dds
+2d_mr_mg_death_bat2.dds
+2d_mr_mg_death_bat3.dds
+2d_mr_mg_death_bat_rank.dds

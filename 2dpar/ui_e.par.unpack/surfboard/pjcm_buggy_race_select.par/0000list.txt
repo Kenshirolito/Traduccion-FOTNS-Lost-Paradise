@@ -1,0 +1,8 @@
+6
+0000list.txt
+2d_mr_buggy_r_s.dds
+2d_mr_buggy_r_s_text.dds
+2d_mr_buggy_r_s_c01.dds
+2d_mr_buggy_r_s_c02.dds
+2d_mr_buggy_r_s_c03.dds
+2d_yk_z_common_kiryu_ps4.dds

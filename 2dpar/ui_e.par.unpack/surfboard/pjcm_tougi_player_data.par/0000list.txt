@@ -1,0 +1,6 @@
+4
+0000list.txt
+2d_jm_tougi_menu.dds
+2d_yk_tougi_01.dds
+2d_jm_tougi_rank.dds
+2d_jm_fighter_37.dds

@@ -1,0 +1,5 @@
+3
+0000list.txt
+2d_mt_kyaba_top.dds
+2d_mt_kyaba_bg.dds
+2d_mt_kyaba_parts_01.dds

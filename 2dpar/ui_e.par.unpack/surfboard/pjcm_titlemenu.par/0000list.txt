@@ -1,0 +1,7 @@
+5
+0000list.txt
+2d_yk_titlemenu.dds
+2d_mr_titlemenu_parts01.dds
+2d_mr_titlemenu_parts03.dds
+2d_mr_titlemenu_parts04.dds
+2d_mr_titlemenu_parts05.dds

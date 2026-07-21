@@ -1,0 +1,12 @@
+10
+0000list.txt
+2d_gk_mg_bowling_pow.dds
+2d_gk_mg_bowling_pin.dds
+2d_gk_mg_bowling_ball.dds
+2d_gk_mg_bowling_asc.dds
+2d_gk_mg_bowling_score.dds
+2d_gk_mg_bowling_ex.dds
+2d_gk_mg_bowling_asc02.dds
+2d_gk_mg_bowling_awd01.dds
+2d_gk_mg_bowling_awd02.dds
+2d_gk_mg_bowling_asc03.dds

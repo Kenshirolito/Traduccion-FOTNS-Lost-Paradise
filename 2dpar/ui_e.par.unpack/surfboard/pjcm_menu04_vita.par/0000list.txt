@@ -1,0 +1,8 @@
+6
+0000list.txt
+2d_k2_move2.dds
+2d_jm_titlemenu_bg.dds
+2d_k2_select_glb3.dds
+2d_k2_mgname.dds
+2d_k2_mgselect_hidariue.dds
+2d_k2_select_glb4.dds

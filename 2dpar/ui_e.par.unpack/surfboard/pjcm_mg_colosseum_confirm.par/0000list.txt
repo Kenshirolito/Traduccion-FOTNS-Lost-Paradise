@@ -1,0 +1,4 @@
+2
+0000list.txt
+2d_mr_mg_shujin_conf.dds
+2d_mr_mg_conf_dummy.dds

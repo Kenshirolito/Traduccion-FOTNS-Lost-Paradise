@@ -1,0 +1,12 @@
+10
+0000list.txt
+2d_mr_title_bg_cloud.dds
+2d_mr_tit_logo01.dds
+2d_mr_tit_logo02.dds
+2d_mr_taiken_bg.dds
+2d_mr_tit_logo03.dds
+2d_mr_title_bg_building.dds
+2d_mr_title_bg_cloud02.dds
+2d_mr_title_bg_cloud_00.dds
+2d_mr_title_bg_cloud_01.dds
+2d_mr_tit_logo_trial.dds

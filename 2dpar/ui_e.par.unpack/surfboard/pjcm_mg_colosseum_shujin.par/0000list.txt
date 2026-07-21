@@ -1,0 +1,8 @@
+6
+0000list.txt
+2d_mr_mg_shujin_chain.dds
+2d_mr_mg_shujin_main.dds
+2d_mr_mg_shujin_word.dds
+2d_mr_mg_shujin_bg.dds
+2d_mr_mg_shujin_word02.dds
+2d_yk_z_common_kiryu_ps4.dds

@@ -1,0 +1,4 @@
+2
+0000list.txt
+2d_mr_btl_npc_gauge01.dds
+2d_mr_btl_npc_gauge02.dds

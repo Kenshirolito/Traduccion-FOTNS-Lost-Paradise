@@ -1,0 +1,7 @@
+5
+0000list.txt
+2d_ms_mking_title.dds
+2d_ms_mking_title_kiri.dds
+2d_ms_mking_title_light.dds
+2d_ms_mking_title_nani.dds
+2d_ms_mking_mask.dds

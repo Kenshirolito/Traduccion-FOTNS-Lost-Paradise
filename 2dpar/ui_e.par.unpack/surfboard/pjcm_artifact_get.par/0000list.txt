@@ -1,0 +1,10 @@
+8
+0000list.txt
+2d_mr_artifact_get01.dds
+2d_mr_artifact_get02.dds
+2d_mr_artifact_get03.dds
+2d_mr_artifact_get04.dds
+2d_mr_artifact_get05.dds
+2d_mr_artifact_get06.dds
+2d_mr_artifact_get07.dds
+2d_mr_artifact_get_text.dds

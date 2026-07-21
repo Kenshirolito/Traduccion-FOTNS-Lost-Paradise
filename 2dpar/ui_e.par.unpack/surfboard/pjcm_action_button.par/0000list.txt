@@ -1,0 +1,13 @@
+11
+0000list.txt
+2d_jm_actionbtn.dds
+2d_jm_btn.dds
+2d_jm_qte.dds
+2d_jm_qte2.dds
+2d_jm_btn_eff.dds
+2d_mr_action_asc_nageru.dds
+2d_mr_action_btn_shadow.dds
+2d_mr_ougi_eff01.dds
+2d_mr_ougi_eff02.dds
+2d_jm_qte3.dds
+2d_mr_ougi_text02.dds

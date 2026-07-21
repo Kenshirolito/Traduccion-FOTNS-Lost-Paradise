@@ -1,0 +1,7 @@
+5
+0000list.txt
+2d_mr_btl_player_gauge.dds
+2d_mr_btl_player_style.dds
+2d_mr_btl_style.dds
+2d_mr_lv_num.dds
+2d_mr_btl_gauge.dds

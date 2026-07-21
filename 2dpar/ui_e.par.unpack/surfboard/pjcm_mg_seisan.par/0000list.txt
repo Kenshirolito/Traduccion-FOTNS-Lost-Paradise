@@ -1,0 +1,5 @@
+3
+0000list.txt
+2d_mt_mg_kekka01.dds
+2d_mt_mg_chat.dds
+2d_mt_mg_seisanmo.dds

@@ -1,0 +1,16 @@
+14
+0000list.txt
+2d_btl_cap_eff.dds
+2d_btl_cap_boss_raou.dds
+2d_btl_cap_gomisouji.dds
+2d_adv_cap_edenmezase.dds
+2d_btl_cap_himei.dds
+2d_btl_cap_boss_goruga.dds
+2d_btl_cap_ink01.dds
+2d_btl_cap_ink02.dds
+2d_btl_cap_ink03.dds
+2d_adv_cap_sumi_m.dds
+2d_adv_cap_sumi_sentan.dds
+2d_jin_cap_ink01.dds
+2d_btl_cap_ink04.dds
+2d_btl_cap_eff02.dds

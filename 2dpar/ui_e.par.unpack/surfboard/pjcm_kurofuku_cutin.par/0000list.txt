@@ -1,0 +1,5 @@
+3
+0000list.txt
+kurofuku_cutin_00.dds
+kurofuku_chara.dds
+kurofuku_cutin_03.dds

@@ -1,0 +1,9 @@
+7
+0000list.txt
+2d_mr_buggy_custom_bg.dds
+2d_mr_buggy_custom_02.dds
+2d_mr_buggy_custom_01.dds
+2d_mr_buggy_custom_dummy.dds
+2d_mr_buggy_custom_03.dds
+2d_mr_buggy_custom_04.dds
+2d_yk_z_common_kiryu_ps4.dds

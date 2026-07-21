@@ -1,0 +1,7 @@
+5
+0000list.txt
+2d_yk_ktougi_waku.dds
+2d_yk_titlemenu_bg00.dds
+2d_yk_titlemenu_bg01.dds
+2d_yk_kyuukyokutougi.dds
+2d_yk_kyuukyokutougi_text.dds

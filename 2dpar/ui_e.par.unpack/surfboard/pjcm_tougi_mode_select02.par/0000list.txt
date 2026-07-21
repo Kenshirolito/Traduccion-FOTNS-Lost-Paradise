@@ -1,0 +1,4 @@
+2
+0000list.txt
+2d_jm_tougi_menu.dds
+2d_jm_tougi_bg.dds

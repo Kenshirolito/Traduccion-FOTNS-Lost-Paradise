@@ -1,0 +1,9 @@
+7
+0000list.txt
+2d_mt_mg_turi.dds
+2d_mt_mg_turi01.dds
+2d_mt_mg_turi02.dds
+2d_mt_mg_turi03.dds
+2d_mt_mg_turi04.dds
+2d_mt_mg_turi05.dds
+2d_mt_mg_turi06.dds

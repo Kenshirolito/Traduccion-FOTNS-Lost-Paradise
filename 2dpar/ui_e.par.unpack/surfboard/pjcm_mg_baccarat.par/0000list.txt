@@ -1,0 +1,6 @@
+4
+0000list.txt
+2d_yk_bc_number.dds
+2d_yk_mg_bc_card.dds
+2d_yk_mg_bc_result.dds
+2d_yk_mg_bc01.dds

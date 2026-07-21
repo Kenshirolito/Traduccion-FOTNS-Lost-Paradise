@@ -1,0 +1,8 @@
+6
+0000list.txt
+2d_yk_bj_number.dds
+2d_yk_mg_bj_sibari.dds
+2d_yk_mg_bj_card.dds
+2d_yk_mg_blackjack_01.dds
+2d_yk_mg_blackjack_04.dds
+2d_yk_mg_bj_result.dds
