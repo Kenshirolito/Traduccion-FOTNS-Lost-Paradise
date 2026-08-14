@@ -1,6 +1,0 @@
-4
-0000list.txt
-2d_yk_innnen.dds
-2d_yk_innnen_asc.dds
-2d_yk_nnnen_asc_shine.dds
-2d_yk_innnen_asc_dlc.dds

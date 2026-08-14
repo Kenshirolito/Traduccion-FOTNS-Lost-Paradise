@@ -1,7 +1,0 @@
-5
-0000list.txt
-2d_jm_gp_break.dds
-2d_jm_gp_1sen.dds
-2d_yk_tg_style_00.dds
-2d_yk_tg_symbol_a_s.dds
-2d_yk_tg_num.dds

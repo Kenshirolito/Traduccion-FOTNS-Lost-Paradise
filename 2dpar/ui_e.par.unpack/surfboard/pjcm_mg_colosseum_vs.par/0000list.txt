@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_mr_mg_conf_dummy.dds
-2d_mr_mg_shujin_chain.dds
-2d_mr_mg_shujin_vs.dds

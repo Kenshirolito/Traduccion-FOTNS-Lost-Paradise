@@ -1,5 +1,0 @@
-3
-0000list.txt
-video_01.dds
-video_face_01.dds
-video_face_02.dds

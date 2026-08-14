@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_jm_taishi_gousei02.dds
-2d_jm_taishi_gousei07.dds
-2d_yk_line.dds

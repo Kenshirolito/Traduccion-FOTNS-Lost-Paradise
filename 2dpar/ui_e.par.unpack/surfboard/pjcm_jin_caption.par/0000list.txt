@@ -1,4 +1,0 @@
-2
-0000list.txt
-2d_jin_cap_toki.dds
-2d_jin_cap_kyouou.dds

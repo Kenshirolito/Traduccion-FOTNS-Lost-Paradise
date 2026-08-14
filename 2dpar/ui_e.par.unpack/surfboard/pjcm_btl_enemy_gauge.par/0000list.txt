@@ -1,6 +1,0 @@
-4
-0000list.txt
-2d_mr_btl_enemy_gauge01.dds
-2d_mr_btl_enemy_gauge02.dds
-2d_mr_btl_enemy_gauge03.dds
-2d_mr_btl_enemy_gauge04.dds

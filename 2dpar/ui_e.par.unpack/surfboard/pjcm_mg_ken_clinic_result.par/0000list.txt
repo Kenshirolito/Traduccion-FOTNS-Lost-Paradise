@@ -1,5 +1,0 @@
-3
-0000list.txt
-mg_ken_clinic_result_01.dds
-mg_ken_clinic_result_02.dds
-mg_ken_clinic_result_03.dds

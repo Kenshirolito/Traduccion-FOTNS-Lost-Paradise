@@ -1,7 +1,0 @@
-5
-0000list.txt
-2d_jm_life_eff5.dds
-2d_yk_btl_enemy.dds
-2d_cf_btl_enemy_particle.dds
-pjcm_btl_enemy.dds
-2d_jm_enemygauge_eff.dds

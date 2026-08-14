@@ -1,4 +1,0 @@
-2
-0000list.txt
-2d_mt_mgs_01.dds
-2d_mt_mgs_ps301.dds

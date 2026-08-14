@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_jm_shooting.dds
-2d_jm_shooting_00.dds
-2d_jm_shooting_en.dds

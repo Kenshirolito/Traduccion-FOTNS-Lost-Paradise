@@ -1,4 +1,0 @@
-2
-0000list.txt
-2d_cf_dlc_win.dds
-2d_cf_dlc_win2.dds

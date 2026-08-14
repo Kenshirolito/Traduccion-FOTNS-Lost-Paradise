@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_mr_map.dds
-2d_mr_map_frame.dds
-2d_mr_map01.dds

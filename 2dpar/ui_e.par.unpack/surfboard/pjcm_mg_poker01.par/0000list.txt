@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_mt_mg_poker_d2.dds
-2d_mt_mg_poker_d2_pod.dds
-2d_mt_mg_poker_d2_02.dds

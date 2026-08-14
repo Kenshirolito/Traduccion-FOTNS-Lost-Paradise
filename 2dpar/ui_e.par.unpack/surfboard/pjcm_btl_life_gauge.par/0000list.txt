@@ -1,9 +1,0 @@
-7
-0000list.txt
-2d_btl_life_gauge01.dds
-2d_btl_life_gauge02.dds
-2d_btl_life_gauge05.dds
-2d_btl_life_gauge06.dds
-2d_btl_life_gauge07.dds
-2d_btl_life_gauge08.dds
-2d_btl_life_gauge09.dds

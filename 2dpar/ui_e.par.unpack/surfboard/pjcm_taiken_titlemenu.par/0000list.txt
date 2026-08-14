@@ -1,6 +1,0 @@
-4
-0000list.txt
-2d_mr_taiken_title_bg.dds
-2d_mr_taiken_bar.dds
-2d_mr_taiken_title_01.dds
-2d_mr_taiken_message.dds

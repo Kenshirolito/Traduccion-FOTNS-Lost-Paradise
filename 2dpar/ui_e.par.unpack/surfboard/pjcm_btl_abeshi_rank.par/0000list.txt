@@ -1,4 +1,0 @@
-2
-0000list.txt
-pjcm_btl_abeshi_rank01.dds
-pjcm_btl_abeshi_rank02.dds

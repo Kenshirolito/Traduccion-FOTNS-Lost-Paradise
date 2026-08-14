@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_jm_choice.dds
-2d_jm_choice_en.dds
-2d_jm_btn.dds

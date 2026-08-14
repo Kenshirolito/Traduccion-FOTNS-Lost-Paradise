@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_mr_mg_bk_01.dds
-2d_mr_mg_bk_02.dds
-2d_mr_mg_bk_03.dds

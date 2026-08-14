@@ -1,6 +1,0 @@
-4
-0000list.txt
-2d_mr_mg_shujin_pro_bg.dds
-2d_mr_mg_shujin_chain.dds
-2d_mr_mg_shujin_pro_main.dds
-2d_mr_mg_shujin_dummy.dds

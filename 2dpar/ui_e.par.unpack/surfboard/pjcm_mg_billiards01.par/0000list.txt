@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_jm_mg_billiards_01.dds
-2d_jm_mg_billiards_09.dds
-2d_jm_mg_billiards_07.dds

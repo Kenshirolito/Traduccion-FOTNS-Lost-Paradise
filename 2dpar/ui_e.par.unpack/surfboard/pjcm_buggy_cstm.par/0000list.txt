@@ -1,7 +1,0 @@
-5
-0000list.txt
-2d_mr_mg_buggy_cstm01.dds
-2d_mr_bgcs_gauge01.dds
-2d_mr_buggy_back.dds
-2d_mr_buggy_i_frame00.dds
-2d_yk_z_common_kiryu_ps4.dds

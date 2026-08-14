@@ -1,6 +1,0 @@
-4
-0000list.txt
-2d_mt_mg_mahjong01.dds
-2d_mt_mg_mahjong03.dds
-2d_mt_mg_mahjong_face2.dds
-2d_mt_mg_mahjong04.dds

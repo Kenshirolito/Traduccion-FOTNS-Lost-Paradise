@@ -1,8 +1,0 @@
-6
-0000list.txt
-mg_ken_clinic_01.dds
-mg_ken_clinic_02.dds
-mg_ken_clinic_03.dds
-mg_ken_clinic_04.dds
-mg_ken_clinic_05.dds
-mg_ken_clinic_06.dds

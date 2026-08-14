@@ -1,3 +1,0 @@
-1
-0000list.txt
-pjcm_buggy_bgm01.dds

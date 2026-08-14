@@ -1,7 +1,0 @@
-5
-0000list.txt
-2d_ky_titile01_taiken.dds
-2d_ky_titile00.dds
-2d_pilot_title_logo_03.dds
-2d_ky_titile02.dds
-2d_ky_titile_e00.dds

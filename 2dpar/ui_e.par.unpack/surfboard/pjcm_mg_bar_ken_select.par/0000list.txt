@@ -1,4 +1,0 @@
-2
-0000list.txt
-2d_mr_mg_bk_sel.dds
-2d_mr_mg_bk_najimi.dds

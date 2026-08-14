@@ -1,9 +1,0 @@
-7
-0000list.txt
-2d_mr_get_ability02.dds
-2d_mr_get_ability04.dds
-2d_mr_get_ability05.dds
-2d_mr_get_ability06.dds
-2d_mr_get_ability07.dds
-2d_mr_get_ability08.dds
-2d_mr_get_ability_dummy.dds

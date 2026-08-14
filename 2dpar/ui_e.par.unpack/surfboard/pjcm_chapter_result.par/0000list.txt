@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_mr_chapter_result01.dds
-2d_mr_c_result_dummy.dds
-2d_yk_z_common_kiryu_ps4.dds

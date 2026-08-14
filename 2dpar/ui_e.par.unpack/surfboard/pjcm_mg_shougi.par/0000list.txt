@@ -1,6 +1,0 @@
-4
-0000list.txt
-2d_mt_shiogi03.dds
-2d_yk_mg_shougi_te.dds
-2d_mt_shiogi01.dds
-2d_mt_mg_01.dds

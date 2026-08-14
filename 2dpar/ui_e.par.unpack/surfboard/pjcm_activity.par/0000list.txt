@@ -1,4 +1,0 @@
-2
-0000list.txt
-2d_yk_activity.dds
-2d_mr_activity00.dds

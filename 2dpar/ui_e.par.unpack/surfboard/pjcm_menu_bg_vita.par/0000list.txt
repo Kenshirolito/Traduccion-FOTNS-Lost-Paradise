@@ -1,7 +1,0 @@
-5
-0000list.txt
-2d_jm_titlemenu_bg.dds
-2d_jm_titlemenu_line.dds
-2d_mt_titlemenu_eff01.dds
-2d_select_glb.dds
-2d_mgselect_hidariue.dds

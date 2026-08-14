@@ -1,6 +1,0 @@
-4
-0000list.txt
-2d_yk_onedari.dds
-2d_cf_onedari_asc.dds
-2d_cf_onedari_asc_shine.dds
-2d_cf_onedari_asc_dlc.dds

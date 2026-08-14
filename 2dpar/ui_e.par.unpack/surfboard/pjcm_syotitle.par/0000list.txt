@@ -1,5 +1,0 @@
-3
-0000list.txt
-2d_mn_syotitle_01.dds
-2d_yk_syotitle_back.dds
-2d_yk_syotitle_back_eff.dds

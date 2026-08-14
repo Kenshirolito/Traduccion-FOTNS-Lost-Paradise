@@ -1,6 +1,0 @@
-4
-0000list.txt
-2d_mr_kaisou_parts01.dds
-2d_yk_kaisou_waku.dds
-2d_mr_titlemenu_parts01.dds
-2d_yk_z_common_kiryu_ps4.dds
